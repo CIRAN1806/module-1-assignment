@@ -1,0 +1,40 @@
+.profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%; 
+             object-fit: cover;
+}
+.card-img {
+            height: 200px;
+            object-fit: cover;
+}
+
+   
+h1, h2, h3, h4, h5, h6 {
+        color: #040404;     
+}
+.nav-link:hover {
+        color: #fdfeff; 
+    }
+#navbar-nav li:first-child{
+margin-right: auto;
+color: rgb(241, 241, 238);
+font-weight: bold;font-size: large;
+}
+nav li:second-child{
+ margin-right: auto;
+padding: 1%;color: rgb(241, 241, 238);
+font-weight: bold;font-size: large;
+  
+}
+.btn1{
+    border-radius: 30px;
+    padding: 10px 35px;
+    font-size:15px;
+    margin-top:30px;
+    background-color: rgb(238, 15, 23);
+}
+.download{
+  text-decoration: none;
+ color: black;
+}
